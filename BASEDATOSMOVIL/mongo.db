@@ -1,0 +1,928 @@
+
+use arcico
+
+
+
+{
+  "nombre": "REDMI 12 PRO",
+  "version":"8GB/256GB",
+  "categoria": "celular",
+  "precio": 1.080.000,
+  "descripcion": "Capacidad y eficiencia
+Con su potente procesador Snapdragon® 732G y memoria RAM de 8 GB 
+tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras.
+
+Capacidad de almacenamiento ilimitada
+Olvídate de borrar. Con su memoria interna de 256 GB podrás 
+descargar todos los archivos y aplicaciones que necesites, 
+guardar fotos y almacenar tus películas, series y videos
+ favoritos para reproducirlos cuando quieras.",
+
+ "ficha tecnica": "
+
+caracteristicas generales
+
+Marca: Xiaomi
+Modelo: Redmi Note 12 Pro
+
+software
+Sistema operativo: Android 11
+Capa original de personalización del sistema operativo: MIUI 13
+
+procesador
+modelo procesador: Snapdragon 732G
+Velocidad del procesador: 2,2 GHz
+
+camara
+trasera principal 108MPX
+resolucion video: 3840px X 2160px
+resolucion frontal princpal: 16MPX
+camaras traseras: 4
+camaras frontales: 1
+
+bateria
+capacidad: 5000 mAH
+carga rapida: si
+
+conectivdad
+red movil: 4G/LTE
+Tipo de conector de carga: USB-C
+conector jack 3.5: si
+dual SIM: si
+
+memoria
+memoria interna: 256GB
+memoria RAM: 8GB
+
+pantalla
+tamaño pantala: 6.67'
+resolucion de pantalla: Full HD+
+tecnologia de pantalla: AMOLED DotDisplay
+frecuencia actualizacion de pantalla: 120 Hz
+
+seguridad
+lector de huella digital: si
+reconocimiento facial: si
+
+peso y dimensiones
+altura y ancho: 165.88 mm x 76.21 mm 
+ "
+  "disponible": 10
+}
+
+
+{
+  "nombre": "REDMI NOTE 12s",
+  "version":"8GB/256GB"
+  "categoria": "celular",
+  "precio": 920.000,
+  "descripcion": "
+  Fotografía profesional en tu bolsillo
+Descubre infinitas posibilidades para tus fotos con las 4 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados.
+
+Experiencia visual increíble
+Mira tus series y películas favoritas con la mejor definición a través de su pantalla AMOLED de 6.67. Disfruta de colores brillantes y detalles precisos en todos tus contenidos",
+ "ficha tecnica":"
+ caracteristicas generales
+
+Marca: xiaomi
+Modelo: Redmi Note 12S
+
+software
+Sistema operativo: Android 13
+Capa original de personalización del sistema operativo: MIUI 14
+
+procesador
+modelo procesador: MediaTek Helio G96
+Velocidad del procesador: 2,05 GHz
+modelo de GPU: Mali-G57 MC2
+
+camara
+trasera principal:108 Mpx f/1,8
+Gran angular: 8 Mpx f/2,2
+resolucion video: 1080p de 1920 x 1080 | 30 fps720p de 1280 x 720
+resolucion frontal princpal: 12 Mpx 
+camaras traseras: 2
+camaras frontales: 1
+
+bateria
+capacidad: 5000 mAh
+carga rapida: si
+carga inalambrica: no
+
+conectivdad
+red movil: 4G/LTE
+conector carga: USB-C
+conector jack 3.5: si
+dual SIM: si
+NFC: si
+
+memoria
+memoria interna: 256GB
+memoria RAM: 8GB
+
+pantalla
+tamaño pantala: 6.43'
+resolucion de pantalla: Full HD+
+tecnologia de pantala: AMOLED
+frecuencia actualizacion de pantalla: 90 Hz
+
+seguridad
+lector de huella digital: si
+reconocimiento facial: si
+
+peso y dimensiones
+altura y ancho: 159.87 mm x 73.87 mm 
+peso: 176 g 
+"
+  "disponible": 10
+}
+
+
+{
+  "nombre": "REDMI NOTE 12 5G",
+  "version":"4GB/128GB",
+  "categoria": "celular",
+  "precio": 820.900,
+  "descripcion": "Fotografía profesional en tu bolsillo
+Descubre infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados.
+
+Experiencia visual increíble
+Mira tus series y películas favoritas con la mejor definición a través de su pantalla Super AMOLED de 6.67. Disfruta de colores brillantes y detalles precisos en todos tus contenidos.
+
+",
+
+"ficha tecnica": "
+
+caracteristicas generales
+
+Marca: xiaomi
+Modelo: Redmi Note 12 5G
+
+software
+Sistema operativo: Android 12
+Capa original de personalización del sistema operativo: MIUI 13
+
+procesador
+modelo procesador: Snapdragon 4 Gen 1
+Velocidad del procesador: 2 GHz
+
+camara
+trasera principal: 48 Mpx
+resolucion video: 1920 px x 1080 px
+resolucion frontal princpal: 13 Mpx
+camaras traseras: 3
+camaras frontales: 1
+
+bateria
+capacidad: 5000 mAh
+carga rapida: si
+
+conectivdad
+red movil: 5G
+Tipo de conector de carga: USB-C    
+conector jack 3.5: 
+dual SIM: si
+
+memoria
+memoria interna: 128GB
+memoria RAM: 4GB
+
+pantalla
+tamaño pantala: 6.67'
+resolucion de pantalla: Full HD+
+tecnologia de pantalla: Super AMOLED
+frecuencia actualizacion de pantalla: 120 hz
+
+seguridad
+lector de huella digital: si
+reconocimiento facial: si
+
+peso y dimenciones
+altura y ancho: 165.88 mm x 76.21 mm x
+peso: 188 g
+ "
+  "disponible": 5
+}
+
+{
+  "nombre": "NOTE 12 pro+ 5G",
+  "version":"8GB/256GB"
+  "categoria": "celular",
+  "precio": 1.470.000,
+  "descripccion": "Fotografía profesional en tu bolsillo
+Descubre infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados.,
+
+Capacidad y eficiencia
+Con su potente procesador y memoria RAM de 8 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras
+
+",
+
+ "ficha tecnica": "
+
+caracteristicas generales
+
+Marca: xiaomi
+Modelo: Note 12 Pro+ 5G
+
+software
+Sistema operativo: Android 12
+Capa original de personalización del sistema operativo: MIUI 12
+
+procesador
+modelo procesador: MediaTek Dimensity 1080
+Velocidad del procesador: 2.6 GHz
+
+camara
+trasera principal: 200 Mpx
+resolucion video: 3840 px x 2160 px
+resolucion frontal princpal: 16 Mpx
+camaras traseras: 3
+camaras frontales: 1
+
+bateria
+capacidad: 5000 mAh
+carga rapida: si
+carga inalámbrica: no
+
+conectivdad
+red movil: 5G
+conector jack 3.5: si
+Tipo de conector de carga: USB-C
+dual SIM: si
+
+memoria
+memoria interna: 256GB
+memoria RAM: 8GB
+
+pantalla
+tamaño pantala: 6.67'
+resolucion de pantalla: Full HD+
+tecnologia de pantalla: AMOLED
+
+frecuencia actualizacion de pantalla: 
+
+seguridad
+lector de huella digital: 
+reconocimiento facial: s
+
+peso y dimenciones
+altura y ancho: 
+ "
+  "disponible": 10
+}
+
+{
+  "nombre": "REDMI NOTE 10s",
+  "version":"6GB/128GB"
+  "categoria": "celular",
+  "precio": ,
+  "descripcion": "
+
+
+
+Batería de duración superior
+Desenchúfate Con la súper batería de 5000 mAh tendrás energía por mucho más tiempo para jugar, ver series o trabajar sin necesidad de realizar recargas
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: 
+Modelo: 
+
+Software
+Sistema operativo: 
+Capa original de personalización del sistema operativo: 
+
+Procesador
+Modelo procesador: 
+Velocidad del procesador:
+
+Camara
+Trasera principal:
+Resolucion video: 
+Resolucion frontal princpal: 
+Camaras traseras: 
+Camaras frontales: 
+
+Bateria
+Capacidad: 
+Carga rapida: 
+Carga inalámbrica: 
+
+Conectivdad
+Red movil: 
+Conector jack 3.5: 
+Tipo de conector de carga: 
+Dual SIM: 
+
+Memoria
+Memoria interna: 
+Memoria RAM:
+
+Pantalla
+Tamaño pantalla: 
+Resolucion de pantalla: 
+Tecnologia de pantalla: 
+Frecuencia actualizacion de pantalla: 
+
+Seguridad
+Lector de huella digital: 
+Reconocimiento facial: 
+
+Peso y dimensiones
+Altura y ancho: 
+ "
+  "disponible": 5
+}
+
+
+{
+  "nombre": "REDMI NOTE 12",
+  "version":"6GB/128GB"
+  "categoria": "celular",
+  "precio": 770.000,
+  "descripcion": "
+Mayor rendimiento
+Su memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar.
+
+Experiencia visual increíble
+Mira tus series y películas favoritas con la mejor definición a través de su pantalla AMOLED de 6.67. Disfruta de colores brillantes y detalles precisos en todos tus contenidos.
+
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: Xiaomi
+Modelo: Note 12 
+
+Software
+Sistema operativo: Android 12
+Capa original de personalización del sistema operativo: MIUI 14
+
+Procesador
+Modelo procesador: Snapdragon 685
+Velocidad del procesador: 2.8 GHz
+Modelo de GPU: Adreno 610
+
+Camara
+Trasera principal: 50 Mpx/8 Mpx/2 Mpx
+Resolucion video: 1920 px x 1080 px
+Resolucion frontal princpal: 13 Mpx
+Camaras traseras: 3
+Camaras frontales: 1
+
+Bateria
+Capacidad: 5000 mAh
+Carga rapida: si
+Carga inalámbrica: no
+
+Conectivdad
+Red movil: 4G/LTE
+Conector jack 3.5: si
+Tipo de conector de carga: USB-C
+Dual SIM: si
+
+Memoria
+Memoria interna: 128GB
+Memoria RAM: 4GB
+
+Pantalla
+Tamaño pantalla: 6.67'
+Resolucion de pantalla: 1080 px x 2400 px
+Tecnologia de pantalla: AMOLED
+Frecuencia actualizacion de pantalla: 120 Hz
+
+Seguridad
+Lector de huella digital: si 
+Reconocimiento facial: si
+
+Peso y dimensiones
+Altura y ancho: 165.88 mm x 76.21 mm 
+Peso: 183.5 g
+ "
+  "disponible": 5
+}
+
+{
+  "nombre": "REDMI 9T",
+  "version":"6GB/128GB"
+  "categoria": "celular",
+  "precio": 830.000,
+  "descripcion": "
+Se trata de la versión internacional del Xiaomi Redmi 9 Power, que se actualiza en varios aspectos con respecto al primer Xiaomi Redmi 9 aunque manteniendo algunas similitudes (también con el Redmi Note 9 4G). Un potencial rival de otro móvil ganga, el Realme 7i, que se sube al carro de los 6.000 mAh de batería.
+
+De una trasera con el módulo central y el halo circular en el Note 9T pasamos a la ficha de domino
+ en una esquina con el nuevo Redmi 9T y al lector de huellas en el lateral.
+La pantalla es plana y prácticamente hecha con el mismo molde que el Redmi 9 inicial. De hecho, se mantienen las 6,53 pulgadas IPS con resolución FullHD+
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: xiaomi
+Modelo: redmi 9t
+
+Software
+Sistema operativo: Android 10
+Capa original de personalización del sistema operativo: MIUI 12
+
+Procesador
+Modelo procesador: Snapdragon 662
+Velocidad del procesador: 2.0GHz
+
+Camara
+Trasera principal: 48 Mpx
+Resolucion video: 1920 px x 1080 px
+Resolucion frontal princpal: 8 Mpx
+Camaras traseras: 4
+Camaras frontales: 1
+
+Bateria
+Capacidad: 6000 mAh
+Carga rapida: si
+Carga inalámbrica: no 
+
+Conectivdad
+Red movil: 4G/LTE
+Conector jack 3.5: si
+Tipo de conector de carga: USB-C
+Dual SIM: si
+
+Memoria
+Memoria interna: 64GB
+Memoria RAM: 4GB
+
+Pantalla
+Tamaño pantalla: 6.53'
+Resolucion de pantalla: 1080 px x 2340 px
+Tecnologia de pantalla: IPS
+Frecuencia actualizacion de pantalla: 60 Hz
+
+Seguridad
+Lector de huella digital: si
+Reconocimiento facial: si
+
+Peso y dimensiones
+Altura y ancho: 162.3 mm x 77.3 mm 
+Peso: 198 g
+ "
+  "disponible": 5
+}
+
+
+{
+  "nombre": "REDMI  12",
+  "version":"8GB/256GB"
+  "categoria": "celular",
+  "precio": 750.000,
+  "descripcion": "
+Desbloqueo facial y dactilar
+Máxima seguridad para que solo tú puedas acceder al equipo. Podrás elegir entre el sensor de huella dactilar para habilitar el teléfono en un toque, o el reconocimiento facial que permite un desbloqueo hasta un 30% más rápido.
+
+Experiencia visual increíble
+Mira tus series y películas favoritas con la mejor definición a través de su pantalla AMOLED de 6.67. Disfruta de colores brillantes y detalles precisos en todos tus contenidos
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: xiaomi
+Modelo: redmi 12
+
+Software
+Sistema operativo: android 13
+Capa original de personalización del sistema operativo: MIUI 14
+
+Procesador
+Modelo procesador: helio G88
+Velocidad del procesador: 2.0 GHz
+
+Camara
+Trasera principal: 50 MP f/1.8
+Resolucion video: 1080p 60 fps720p
+Resolucion frontal princpal: 8 MP f/2.1
+Camaras traseras:  3
+Camaras frontales: 1
+
+Bateria
+Capacidad: 5.000 mAh
+Carga rapida: si
+Carga inalámbrica: no
+
+Conectivdad
+Red movil: 4G LTE
+Conector jack 3.5: si
+Tipo de conector de carga: USB-C
+Dual SIM: si
+
+Memoria
+Memoria interna: 256GB 
+Memoria RAM: 8GB
+
+Pantalla
+Tamaño pantalla: 6'79
+Resolucion de pantalla: Full HD+
+Tecnologia de pantalla: LCD 
+Frecuencia actualizacion de pantalla: 90 Hz 
+
+Seguridad
+Lector de huella digital: si
+Reconocimiento facial: si
+
+Peso y dimensiones
+Altura y ancho: 168,60mm Anchura: 76,28 mm
+ "
+  "disponible": 5
+}
+
+
+{
+  "nombre": "REDMI NOTE  12",
+  "version":""
+  "categoria": "",
+  "precio": ,
+  "descripcion": "
+
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: 
+Modelo: 
+
+Software
+Sistema operativo: 
+Capa original de personalización del sistema operativo: 
+
+Procesador
+Modelo procesador: 
+Velocidad del procesador:
+
+Camara
+Trasera principal:
+Resolucion video: 
+Resolucion frontal princpal: 
+Camaras traseras: 
+Camaras frontales: 
+
+Bateria
+Capacidad: 
+Carga rapida: 
+Carga inalámbrica: 
+
+Conectivdad
+Red movil: 
+Conector jack 3.5: 
+Tipo de conector de carga: 
+Dual SIM: 
+
+Memoria
+Memoria interna: 
+Memoria RAM:
+
+Pantalla
+Tamaño pantalla: 
+Resolucion de pantalla: 
+Tecnologia de pantalla: 
+Frecuencia actualizacion de pantalla: 
+
+Seguridad
+Lector de huella digital: 
+Reconocimiento facial: 
+
+Peso y dimensiones
+Altura y ancho: 
+ "
+  "disponible": 5
+}
+
+{
+  "nombre": "REDMI NOTE  12",
+  "version":""
+  "categoria": "",
+  "precio": ,
+  "descripcion": "
+
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: 
+Modelo: 
+
+Software
+Sistema operativo: 
+Capa original de personalización del sistema operativo: 
+
+Procesador
+Modelo procesador: 
+Velocidad del procesador:
+
+Camara
+Trasera principal:
+Resolucion video: 
+Resolucion frontal princpal: 
+Camaras traseras: 
+Camaras frontales: 
+
+Bateria
+Capacidad: 
+Carga rapida: 
+Carga inalámbrica: 
+
+Conectivdad
+Red movil: 
+Conector jack 3.5: 
+Tipo de conector de carga: 
+Dual SIM: 
+
+Memoria
+Memoria interna: 
+Memoria RAM:
+
+Pantalla
+Tamaño pantalla: 
+Resolucion de pantalla: 
+Tecnologia de pantalla: 
+Frecuencia actualizacion de pantalla: 
+
+Seguridad
+Lector de huella digital: 
+Reconocimiento facial: 
+
+Peso y dimensiones
+Altura y ancho: 
+ "
+  "disponible": 5
+}
+
+
+{
+  "nombre": "REDMI NOTE  12",
+  "version":""
+  "categoria": "",
+  "precio": ,
+  "descripcion": "
+
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: 
+Modelo: 
+
+Software
+Sistema operativo: 
+Capa original de personalización del sistema operativo: 
+
+Procesador
+Modelo procesador: 
+Velocidad del procesador:
+
+Camara
+Trasera principal:
+Resolucion video: 
+Resolucion frontal princpal: 
+Camaras traseras: 
+Camaras frontales: 
+
+Bateria
+Capacidad: 
+Carga rapida: 
+Carga inalámbrica: 
+
+Conectivdad
+Red movil: 
+Conector jack 3.5: 
+Tipo de conector de carga: 
+Dual SIM: 
+
+Memoria
+Memoria interna: 
+Memoria RAM:
+
+Pantalla
+Tamaño pantalla: 
+Resolucion de pantalla: 
+Tecnologia de pantalla: 
+Frecuencia actualizacion de pantalla: 
+
+Seguridad
+Lector de huella digital: 
+Reconocimiento facial: 
+
+Peso y dimensiones
+Altura y ancho: 
+ "
+  "disponible": 5
+}
+
+
+{
+  "nombre": "REDMI NOTE  12",
+  "version":"4GB/128GB"
+  "categoria": "celular",
+  "precio": 620.000,
+  "descripcion": "
+Batería de duración superior
+¡Desenchúfate! Con la súper batería de 5000 mAh tendrás energía por mucho más tiempo para jugar, ver series o trabajar sin necesidad de realizar recargas
+
+Experiencia visual increíble
+Mira tus series y películas favoritas con la mejor definición a través de su pantalla AMOLED de 6.67. Disfruta de colores brillantes y detalles precisos en todos tus contenidos
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: xiaomi
+Modelo: REDMI NOTE  12
+
+Software
+Sistema operativo: android 13
+Capa original de personalización del sistema operativo: MIUI 14
+
+Procesador
+Modelo procesador: Snapdragon 685
+Velocidad del procesador: 2.8 GHz
+
+Camara
+Trasera principal: 50 Mpx
+Resolucion video: 1920 px x 1080 px
+Resolucion frontal princpal: 13 Mpx
+Camaras traseras: 3
+Camaras frontales: 1
+
+Bateria
+Capacidad: 5000 mAh
+Carga rapida: si
+Carga inalámbrica: no
+
+Conectivdad
+Red movil: 4G LTE
+Conector jack 3.5: si
+Tipo de conector de carga: USB-C
+Dual SIM: si
+
+Memoria
+Memoria interna: 128GB
+Memoria RAM: 4GB
+
+Pantalla
+Tamaño pantalla: 6.67 
+Resolucion de pantalla: 1080 px x 2400 px
+Tecnologia de pantalla: AMOLED
+Frecuencia actualizacion de pantalla: 120 hz
+
+Seguridad
+Lector de huella digital: si
+Reconocimiento facial: si
+
+Peso y dimensiones
+Altura y ancho: 
+Peso: 
+ "
+  "disponible": 5
+}
+
+
+{
+  "nombre": "REDMI NOTE  12",
+  "version":""
+  "categoria": "",
+  "precio": ,
+  "descripcion": "
+
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: 
+Modelo: 
+
+Software
+Sistema operativo: 
+Capa original de personalización del sistema operativo: 
+
+Procesador
+Modelo procesador: 
+Velocidad del procesador:
+
+Camara
+Trasera principal:
+Resolucion video: 
+Resolucion frontal princpal: 
+Camaras traseras: 
+Camaras frontales: 
+
+Bateria
+Capacidad: 
+Carga rapida: 
+Carga inalámbrica: 
+
+Conectivdad
+Red movil: 
+Conector jack 3.5: 
+Tipo de conector de carga: 
+Dual SIM: 
+
+Memoria
+Memoria interna: 
+Memoria RAM:
+
+Pantalla
+Tamaño pantalla: 
+Resolucion de pantalla: 
+Tecnologia de pantalla: 
+Frecuencia actualizacion de pantalla: 
+
+Seguridad
+Lector de huella digital: 
+Reconocimiento facial: 
+
+Peso y dimensiones
+Altura y ancho: 
+ "
+  "disponible": 5
+}
+
+
+{
+  "nombre": "REDMI NOTE  12",
+  "version":""
+  "categoria": "",
+  "precio": ,
+  "descripcion": "
+
+",
+
+ "ficha tecnica": "
+
+Caracteristicas generales
+
+Marca: 
+Modelo: 
+
+Software
+Sistema operativo: 
+Capa original de personalización del sistema operativo: 
+
+Procesador
+Modelo procesador: 
+Velocidad del procesador:
+
+Camara
+Trasera principal:
+Resolucion video: 
+Resolucion frontal princpal: 
+Camaras traseras: 
+Camaras frontales: 
+
+Bateria
+Capacidad: 
+Carga rapida: 
+Carga inalámbrica: 
+
+Conectivdad
+Red movil: 
+Conector jack 3.5: 
+Tipo de conector de carga: 
+Dual SIM: 
+
+Memoria
+Memoria interna: 
+Memoria RAM:
+
+Pantalla
+Tamaño pantalla: 
+Resolucion de pantalla: 
+Tecnologia de pantalla: 
+Frecuencia actualizacion de pantalla: 
+
+Seguridad
+Lector de huella digital: 
+Reconocimiento facial: 
+
+Peso y dimensiones
+Altura y ancho: 
+ "
+  "disponible": 5
+}
+
+
+
